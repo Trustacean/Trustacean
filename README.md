@@ -1,4 +1,4 @@
-![Kanagawa Stacking](banner.gif)
+<img src="banner.gif" style="width: 100%; height: auto;">
 
 - 👋 Hi, I’m @Trustacean
 - 👀 I’m interested in BALLIN
