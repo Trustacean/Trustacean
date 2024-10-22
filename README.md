@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="banner.gif">
+  <img src="kanagawa-banner.gif">
 </p>
 
 - 👋 Hi, I’m @Trustacean
