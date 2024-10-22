@@ -1,8 +1,8 @@
+<h1>Halloing I'm @Trustacean!!</h1>
 <p align="center">
-  <h1>Halloing I'm @Trustacean!!</h1>
   <img src="kanagawa-banner.gif">
-  <h3>I Love Tetris 👀</h3>
 </p>
+<h3>I Love Tetris 👀</h3>
 
 <!---
 Trustacean/Trustacean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
