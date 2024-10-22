@@ -1,3 +1,5 @@
+![Kanagawa Stacking](banner.gif)
+
 - 👋 Hi, I’m @Trustacean
 - 👀 I’m interested in BALLIN
 - 🌱 I’m currently learning how to BALLIN
