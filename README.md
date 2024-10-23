@@ -4,9 +4,9 @@
 </p>
 <h5 align="center">I Love Tetris 👀</h5>
 
-- 🎓 Currently cramming in college 
-- 💻 Building cool projects while trying to **ball** in programming
-- 💡 Learning web development and networking
+- 🟨 Currently cramming in college 
+- 🟪 Building cool projects while trying to **ball** in programming
+- 🟦 Learning web development and networking
 
 
 ### 📊 GitHub Stats:
