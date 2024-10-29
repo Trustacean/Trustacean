@@ -10,9 +10,10 @@
 
 
 ### 📊 GitHub Stats:
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Trustacean&layout=compact&theme=radical" alt="Top languages">
-</p>
+<img src="https://github-readme-stats.vercel.app/api?username=trustacean&theme=cobalt&show_icons=true&hide_border=false&count_private=true">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=trustacean&theme=cobalt&hide_border=false">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trustacean&theme=cobalt&show_icons=true&hide_border=false&layout=compact">
+
 
 ### 📫 How to reach me:
 - Discord: @trustacean
