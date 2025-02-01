@@ -16,6 +16,8 @@
 ### 📫 How to reach me:
 - Discord: @trustacean
 
+### Current Focus
+- learning Rust
 
 <!---
 Trustacean/Trustacean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
