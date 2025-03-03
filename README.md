@@ -9,8 +9,11 @@
 - 🟦 Learning web development and networking
 
 
-### 📊 GitHub Stats:
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trustacean&theme=cobalt&show_icons=true&hide_border=false&layout=compact">
+### 📊 Languages:
+- Java
+- Rust
+- Typescript/Javascript
+- Python
 
 
 ### 📫 How to reach me:
