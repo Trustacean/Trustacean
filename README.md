@@ -4,23 +4,8 @@
 </p>
 <h5 align="center">I Love Tetris 👀</h5>
 
-- 🟨 Currently cramming in college 
-- 🟪 Building cool projects while trying to **ball** in programming
-- 🟦 Learning web development and networking
-
-
-### 📊 Languages:
-- Java
-- Rust
-- Typescript/Javascript
-- Python
-
-
-### 📫 How to reach me:
-- Discord: @trustacean
-
-### Current Focus
-- learning Rust
+- 🟨 Currently in college 
+- 🟪 Building projects while trying to **ball** in programming
 
 <!---
 Trustacean/Trustacean is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
